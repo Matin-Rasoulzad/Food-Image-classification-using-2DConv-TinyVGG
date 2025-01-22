@@ -66,3 +66,10 @@ cd Food-Image-classification-using-2DConv-TinyVGG
 # Install dependencies
 pip install tensorflow numpy matplotlib seaborn pandas
 ```
+
+## Contribute
+
+-   **GitHub:** [Matin-Rasoulzad](https://github.com/Matin-Rasoulzad)
+-   **LinkedIn:** [Matin-Rasoulzad](https://www.linkedin.com/in/Matin-Rasoulzad)
+
+Thank you for exploring the **Food Image classification using CNN** project! We welcome contributions and feedback to enhance this tool.
