@@ -56,10 +56,10 @@ Instructions on how to install and run the project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Matin-Rasoulzad/Food-Image-classification-using-CNN.git
+git clone https://github.com/Matin-Rasoulzad/Food-Image-classification-using-2DConv-TinyVGG.git
 
 # Navigate to the project directory
-cd Food-Image-classification-using-CNN
+cd Food-Image-classification-using-2DConv-TinyVGG
 
 # Install dependencies
 pip install tensorflow numpy matplotlib seaborn pandas
