@@ -48,7 +48,7 @@ As you see it can confidentially classify `steak🥩` & `pizza🍕`.
 
 ![Screenshot 5](docs/steak.jpg)<br>
 
-In later versions we try to add new food catagories from `Food 101 dataset`**(https://www.kaggle.com/datasets/dansbecker/food-101)**
+In later versions we would try to add new food catagories from `Food 101 dataset`**(https://www.kaggle.com/datasets/dansbecker/food-101)**
 
 ## Installation
 
